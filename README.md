@@ -52,4 +52,4 @@ npm run start
 ```
 
 ### Live Link
-https://
+https://linked-in-clone-o6zh.onrender.com
